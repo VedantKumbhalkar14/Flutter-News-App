@@ -1,2 +1,16 @@
-# Flutter-News-App
-The Flutter based News Application is a News mobile application which fetches the data from the API and displays it in the app in a systematic and readable format. We get breaking news headlines and search for articles from news sources and blogs all over the web with news API and flutter. We can also browse through different news based on categories. This app fetches the JSON data from newsApi.org and displays it in the list view. This app also uses a webview flutter plugin to fetch the data from different websites.
+# news_app
+
+A new Flutter application.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
